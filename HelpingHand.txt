@@ -1,0 +1,32 @@
+HelpingHand Charity HTML5 Template
+
+HelpingHand  is a HTML5 Template especially for Charity, NGO, 
+Non-Profit Organization or Foundation, Campaign & Event Donation, 
+Religion or a Fundraising website.
+
+We do a deep research on what are valuable functions and pages for Charity
+ & Fundraising Organization.
+
+HelpingHand  is Fully Responsive with Bootstrap4 framework, 
+it works wonderfully on any of your users’ devices magically. HTML5, 
+jQuery & CSS3 interesting interactive animation is already made for 
+you to create a unique experience on our site.
+
+Homepage Variation include all useful ready-to-use sections, f
+unctional blocks, beautiful elements & strong impression.
+
+
+Features:
+
+Beautifully Designed Unique Homepage
+26+ Beautifully Designed HTML5 Files
+Event & Event Details Page included
+Blog & Blog Details Page included
+Contact Page Included
+Donation Page Also Included
+1170 Bootstrap Design
+100% Fluid Responsive on any device
+Beautiful Colors
+Beautiful Google Fonts
+Flexible and Customizable PHP Contact Form
+Cross Browser Optimization
